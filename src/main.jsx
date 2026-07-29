@@ -115,7 +115,7 @@ function App() {
           <div className="galaxy-copy">
             <span className="signal">
               <Sparkles size={17} />
-              30 July transmission
+              31 July transmission
             </span>
             <h1>A tiny universe is waiting</h1>
             <p>Press the portal and let the stars take you to another world.</p>
