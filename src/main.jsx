@@ -154,7 +154,7 @@ function App() {
           <section className="wish-stage">
             <div className="date-pill">
               <Sparkles size={18} />
-              <span>30 July</span>
+              <span>31 July</span>
             </div>
 
             <div className="cake" aria-label="birthday cake">
