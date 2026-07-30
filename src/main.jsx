@@ -115,13 +115,13 @@ function App() {
           <div className="galaxy-copy">
             <span className="signal">
               <Sparkles size={17} />
-              31 July transmission
+              31 July
             </span>
             <h1>A tiny universe is waiting</h1>
             <p>Press the portal and let the stars take you to another world.</p>
             <button className="portal-button" onClick={enterBlackHole} type="button">
               <Gift size={21} />
-              Enter the wish
+              Enter the new space
             </button>
           </div>
         </section>
